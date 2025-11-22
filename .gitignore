@@ -1,0 +1,4 @@
+# Ignore training data folder
+train/
+
+# You can add more patterns below as needed.
